@@ -9,7 +9,7 @@ This project originated from a university course assignment but with significant
 - Option to re-run simulations with different parameters
 
 # Technical Details
-Time Complexity: O(rows * cols) for each simulation step
-Space Complexity: O(rows * cols) for matrix storage
-Language: Python 3.6+
-Key Features: Matrix manipulation, cellular automata simulation, file I/O
+- Time Complexity: O(rows * cols) for each simulation step
+- Space Complexity: O(rows * cols) for matrix storage
+- Language: Python 3.6+
+- Key Features: Matrix manipulation, cellular automata simulation, file I/O
